@@ -1,0 +1,7 @@
+**/node_modules
+**/package-lock.json
+react/third-party/ConnectMoon.Client.ts
+react/third-party/ConnectMoon.Constants.ts
+react/third-party/ConnectMoon.Models.Camera.ts
+react/third-party/ConnectMoon.Models.Device.ts
+react/third-party/ConnectMoon.Models.GraphQL.ts
